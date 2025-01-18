@@ -38,6 +38,13 @@ networks = [
   "instagram",
 ]
 
+[[ananke.social.networks]]
+slug = "instagram"
+label = "Instagram"
+color = "#e1306c"
+profile = "https://www.instagram.com/%s/"
+icon = "instagram" # font awesome brand icon name
+
 [params.ananke.social.instagram]
 username = "akira_mato"
 profilelink = "https://www.instagram.com/akira_mato/"
