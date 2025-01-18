@@ -1,7 +1,7 @@
 +++
 author = 'Akira Mato'
 date = '2025-01-19T00:15:51+01:00'
-draft = true
+draft = false
 title = 'Vintage: Minolta Rokkor MD 50mm f1:1.4'
 description = ""
 show_reading_time = true
