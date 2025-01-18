@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>analogue shoots on AkiraMato</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in analogue shoots on AkiraMato</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 22:36:56 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wooden Rhine Bridge</title>
+      <link>http://localhost:1313/posts/wooden-rhine-bridge/</link>
+      <pubDate>Sat, 18 Jan 2025 22:36:56 +0100</pubDate>
+      <guid>http://localhost:1313/posts/wooden-rhine-bridge/</guid>
+      <description>&lt;p&gt;The bridge over the Rhine, which connects the Swiss village of Dissenhofen with the German municipality of Gailingen, is made entirely of wood except for the roadway.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lake Constance</title>
+      <link>http://localhost:1313/posts/lake-constance/</link>
+      <pubDate>Sat, 18 Jan 2025 22:27:57 +0100</pubDate>
+      <guid>http://localhost:1313/posts/lake-constance/</guid>
+      <description>&lt;p&gt;This picture was taken on a fall day at Lake Constance (Germany) with a Leica CL 35mm @ Ilford Delta 400. Developed with Caffenol Delta STD.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>When I look through the viewfinder of my camera, the world seems to stand still, reduced to contrasts, shapes and plays of light. It is an art of omission, in which the absence of color creates space for the essential. &#xA;&lt;p&gt;&amp;nbsp;&lt;/&gt;</description>
+    </item>
+  </channel>
+</rss>
